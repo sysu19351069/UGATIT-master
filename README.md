@@ -1,3 +1,7 @@
+由于github上不能上传大的权重文件，完整的程序请在百度网盘下载：
+链接：https://pan.baidu.com/s/1HoOjqVj-ad4293Fq6IIMRg 
+提取码：tx99 
+
 **本次程序运行需要在Anaconda环境下的$JupyterLab$ 上运行**
 
 注：文件名采用相对路径即可
